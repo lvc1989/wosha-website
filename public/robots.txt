@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Add "Sitemap: https://yourdomain.com/sitemap.xml" here once this is deployed
+# to its real domain — a sitemap needs absolute URLs, so one can't be generated
+# correctly without knowing that in advance.
